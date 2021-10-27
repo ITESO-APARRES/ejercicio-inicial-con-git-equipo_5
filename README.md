@@ -6,5 +6,5 @@ Este es un archivo que se encuentra como base para hacer el ejercicio inicial de
 **NUMERO DE EQUIPO** 5 
 
 ### INTEGRANTES
-   Angel Alexis Ramos Castellanos\n
+   Angel Alexis Ramos Castellanos, 
    Jose Ronaldo Diaz Paredes
