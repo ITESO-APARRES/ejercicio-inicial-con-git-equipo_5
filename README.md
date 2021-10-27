@@ -2,9 +2,9 @@
 
 Este es un archivo que se encuentra como base para hacer el ejercicio inicial de GIT por Equipos.
 
-## Equipo
-**Número de Equipo**  XXX
+## Equipo 
+**NUMERO DE EQUIPO** 5 
 
 ### INTEGRANTES
-   NOMBRE DEL PRIMER INTEGRANTE
-   
+   Angel Alexis Ramos Castellanos
+
