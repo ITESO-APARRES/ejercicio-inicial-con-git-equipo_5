@@ -7,4 +7,4 @@ Este es un archivo que se encuentra como base para hacer el ejercicio inicial de
 
 ### INTEGRANTES
    Angel Alexis Ramos Castellanos
-
+   Jose Ronaldo Diaz Paredes
